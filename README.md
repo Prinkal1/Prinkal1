@@ -2,10 +2,10 @@
 
 >  💻 Full-Stack Software Engineer 
 
-[![Linkedin: chetanya-kandhari](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prinkalmahajan/)](https://www.linkedin.com/in/prinkalmahajan/)
+[![Linkedin: Prinkal Mahajan](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prinkalmahajan/)](https://www.linkedin.com/in/prinkalmahajan/)
 [![GitHub: @availchet](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/Prinkal1)
-[![GitHub: @Prinkal1](https://img.shields.io/github/followers/chetanyakan?label=follow&style=social)](https://github.com/Prinkal1)
-[![Gmail: Prinkal1](https://img.shields.io/badge/Gmail-availchet-red)](mailto:mahajanprinkal@gmail.com)
+[![GitHub: @Prinkal1](https://img.shields.io/github/followers/Prinkal1?label=follow&style=social)](https://github.com/Prinkal1)
+[![Gmail: Prinkal1](https://img.shields.io/badge/Gmail-Prinkal1)](mailto:mahajanprinkal@gmail.com)
 
 ---
 
@@ -26,4 +26,5 @@ If you ever want to bounce ideas off of me or even just have a chat about my fav
 - **BackEnd**:  Node/Express, JavaScript
 - **CI/CD**:  GitHub Actions
 - **DevOps**: Docker
+
 
