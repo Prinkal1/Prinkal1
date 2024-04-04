@@ -2,10 +2,6 @@
 
 >  💻 Full-Stack Software Engineer 
 
-[![Linkedin: Prinkal Mahajan](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prinkalmahajan/)](https://www.linkedin.com/in/prinkalmahajan/)
-[![GitHub: @availchet](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/Prinkal1)
-[![GitHub: @Prinkal1](https://img.shields.io/github/followers/Prinkal1?label=follow&style=social)](https://github.com/Prinkal1)
-[![Gmail: Prinkal1](https://img.shields.io/badge/Gmail-Prinkal1)](mailto:mahajanprinkal@gmail.com)
 
 ---
 
